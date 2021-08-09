@@ -1,6 +1,9 @@
 {
   "name": "socket-chat-example",
   "version": "0.0.1",
+  "engines": {
+    "node": "12.18.4"
+  },
   "description": "my first socket.io app",
   "dependencies": {
     "colors": "^1.4.0",
