@@ -6,7 +6,7 @@
   },
   "scripts": {
   "start": "node index.js"
-}
+},
   "description": "my first socket.io app",
   "dependencies": {
     "colors": "^1.4.0",
