@@ -4,6 +4,9 @@
   "engines": {
     "node": "12.18.4"
   },
+  "scripts": {
+  "start": "node index.js"
+}
   "description": "my first socket.io app",
   "dependencies": {
     "colors": "^1.4.0",
